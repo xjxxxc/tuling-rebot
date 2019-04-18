@@ -1,4 +1,3 @@
-![Licence](https://img.shields.io/badge/licence-none-green.svg)
 ## 简介
 实现图灵机器人，使用阿里云语音转换及图灵机器人接口。（无web页面,请自行增加）
 
